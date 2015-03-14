@@ -1,9 +1,9 @@
-mot-de-passe
+mot de passe lisible
 ============
 
 Read your password so easily.
 
-That's a good question. I do not? 
+That's a good question, no ? 
 
 You fill out a field of password to identify you and you receive an error message. 
 
@@ -16,6 +16,7 @@ I also wrote a version pure javascript without using a library. If you have your
 You will find two soluces above.
 
 C'est une bonne question. Non ? 
+
 Vous remplissez un champs de mot de passe pour vous identifier et vous avez un message d'erreur. 
 
 Si vous pouviez vérifier que vous bien avez tapé le bon mot de passe, ce serait quand même plus pratique! 
@@ -24,10 +25,10 @@ Voici la solution que j'ai trouvé sur le net sur le site "huffduffer.com" réal
 
 J'ai aussi écrit une version javascript pure sans l'aide d'une librairie. Si vous avez votre propre librairie, cela evite de telecharger des elements inutiles.
 
-Vous trouverez les deux solutions :
+Vous trouverez les deux solutions ci-dessus:
 
-password-lisible-demo-jQuery.html, la version de j. Keith
+*password-lisible-demo-jQuery.html, la version de j. Keith
 
-password-lisible-demo-js.html, ma version light en js 
+*password-lisible-demo-js.html, ma version light en js 
 
 
