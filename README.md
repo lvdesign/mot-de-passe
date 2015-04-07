@@ -1,7 +1,7 @@
 mot de passe lisible
 ============
 
-Read your password so easily.
+Read your password easily.
 
 That's a good question, no ? 
 
@@ -23,7 +23,11 @@ Si vous pouviez vérifier que vous bien avez tapé le bon mot de passe, ce serai
 
 Voici la solution que j'ai trouvé sur le net sur le site "huffduffer.com" réalisé par Jeremy Keith. 
 
-J'ai aussi écrit une version javascript pure sans l'aide d'une librairie. Si vous avez votre propre librairie, cela evite de telecharger des elements inutiles.
+Recement a la lecture d'un article de J. Keith sur le telechargement de css "Inlining critical CSS for first-time visits" [source](https://adactio.com/journal/?start=10), j'ai decouvert qu'il avait developpe une version de ce principe avec le password lisible par default pour le site [The Session](https://thesession.org). Je me suis empresse de realiser ma version en Javascript et de recreer celle en jQuery.
+
+J'ai aussi écrit une version javascript pure sans l'aide d'une librairie. 
+
+Si vous avez votre propre librairie, cela evite de telecharger des elements inutiles.
 
 Vous trouverez les deux solutions ci-dessus:
 
@@ -31,4 +35,8 @@ Vous trouverez les deux solutions ci-dessus:
 
 *password-lisible-demo-js.html, ma version light en js 
 
+Nouvelles versions avec par default le mot de passe lisible :
 
+*password-lisible-demo-jQuery-V2.html 
+
+*password-lisible-demo-js-V2.html
